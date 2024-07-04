@@ -1,14 +1,14 @@
 # My Favorite applications and tools
 
 ## System Setup
-Steam Deck: LCD version
-Desktop: N/A
-Laptop: Framework Laptop 13
-CPU: i7-1260P
-RAM: 32GB
-OS: Arch Linux
-DE/WM: Hyprland
-Shell: zsh
+Steam Deck: LCD version <br/>
+Desktop: N/A <br/>
+Laptop: Framework Laptop 13 <br/>
+CPU: Intel i7-1260P <br/>
+RAM: 32GB <br/>
+OS: Arch Linux <br/>
+DE/WM: Hyprland <br/>
+Shell: zsh <br/>
 
 ## Favorite Applications
 - Spotube - open source spotify client not built using electron
